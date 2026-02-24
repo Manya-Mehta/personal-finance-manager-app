@@ -1,0 +1,6 @@
+<resources>
+    <style name="NoFocusCardView" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="android:foreground">@null</item>
+        <item name="rippleColor">@android:color/transparent</item>
+    </style>
+</resources>

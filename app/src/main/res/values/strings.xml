@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Personal Financial Manager</string>
+    
+    <string-array name="categories">
+        <item>All</item>
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Shopping</item>
+        <item>Health</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="transaction_types">
+        <item>All</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+    <string-array name="currencies">
+        <item>USD ($)</item>
+        <item>EUR (€)</item>
+        <item>GBP (£)</item>
+        <item>JPY (¥)</item>
+        <item>INR (₹)</item>
+        <item>CAD (C$)</item>
+        <item>AUD (A$)</item>
+        <item>CNY (¥)</item>
+    </string-array>
+</resources>

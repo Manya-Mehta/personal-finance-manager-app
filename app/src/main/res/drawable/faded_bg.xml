@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background image -->
+    <item>
+        <bitmap
+            android:src="@drawable/background_login"
+            android:scaleType="centerCrop"
+         />
+    </item>
+
+    <!-- Semi-transparent overlay to fade it -->
+    <item>
+        <color android:color="#80000000"/> <!-- 50% transparent black -->
+    </item>
+</layer-list>
